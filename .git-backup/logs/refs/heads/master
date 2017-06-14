@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 a7f66d0a1f18ede779b2f456ac3de0c1b9ee7f63 Don Cooper <don_cooper@hotmail.com> 1497460108 -0400	commit (initial): First app created
-a7f66d0a1f18ede779b2f456ac3de0c1b9ee7f63 31259faea55af21393e4a9c15d695870a7f28982 Don Cooper <don_cooper@hotmail.com> 1497461015 -0400	commit: Associations created for app 1
-31259faea55af21393e4a9c15d695870a7f28982 e401888b4f4e3da56a7591ce6e8aff79477ac053 Don Cooper <don_cooper@hotmail.com> 1497461348 -0400	commit: Associations created for app 2
-e401888b4f4e3da56a7591ce6e8aff79477ac053 07a98073cdbaea934523c0b16d4a09c118b0951b Don Cooper <don_cooper@hotmail.com> 1497462068 -0400	commit: Associations created for app 3
-07a98073cdbaea934523c0b16d4a09c118b0951b 2c942475f447eeb57605b2738f2d59701ff20568 Don Cooper <don_cooper@hotmail.com> 1497463768 -0400	commit: Associations created for app 4
-2c942475f447eeb57605b2738f2d59701ff20568 0bd9f74cb5bcf2c9dd44d09ff1e21bca4aadb62b Don Cooper <don_cooper@hotmail.com> 1497464488 -0400	commit: Removed git folders from individual apps
